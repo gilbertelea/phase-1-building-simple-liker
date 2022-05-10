@@ -19,7 +19,7 @@ article.media-post {
   border: solid 1px #000;
   margin: 2% 3%;
   background-color: #fff;
-}
+} 
 
 article.media-post > p {
   background-color: rgba(0,123,255,0.25);
